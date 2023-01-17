@@ -11,10 +11,10 @@ keywords:
   - gelf
 icon: https://global-uploads.webflow.com/5a218ef7897bf400019e2f16/5a218ef7897bf400019e2f60_logo-graylog.png
 sources:
-  - https://github.com/KongZ/charts
+  - https://github.com/pauronda-visma/charts
 maintainers:
-  - name: KongZ
-    email: goonohc@gmail.com
+  - name: pauronda-visma
+    email: pau.ronda@visma.com
 dependencies:
   - name: elasticsearch
     version: 7.16.2
